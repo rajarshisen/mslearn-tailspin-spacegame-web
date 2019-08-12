@@ -43,6 +43,7 @@ steps:
   parameters:
     buildConfiguration: 'Release'
 
+
   template: templates/build.yml
   parameters:
     buildConfiguration: 'Test'
